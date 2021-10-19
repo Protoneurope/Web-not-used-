@@ -1,0 +1,43 @@
+{
+	"producer_account_name": "ProtonEurop",
+	"org": {
+		"candidate_name": "ProtonEurope",
+		"website": "https://djjay60.github.io/proton/",
+		"code_of_conduct": "https://djjay60.github.io/proton/",
+		"email": "protoneurope@hotmail.com",
+		"ownership_disclosure": "https://djjay60.github.io/proton/",
+		"branding": {
+			"logo_256": "https://djjay60.github.io/proton/logo256.jpg",
+			"logo_1024": "https://djjay60.github.io/proton/logo1024.jpg",
+			"logo_svg": ""
+		},
+		"location": {
+			"name": "Germany",
+			"country": "DE",
+			"latitude": 51.1657,
+			"longitude": 10.4515
+		},
+		"social": {
+			"steemit": "",
+			"twitter": "EuropeProton",
+			"youtube": "",
+			"facebook": "",
+			"github": "",
+			"reddit": "",
+			"keybase": "",
+			"telegram": "ProtonEurope",
+			"wechat": ""
+		}
+	},
+	"nodes": [
+		{
+			"location": {
+				"name": "Germany",
+				"country": "DE",
+				"latitude": 51.1657,
+				"longitude": 10.4515
+			},
+			"node_type": "producer"
+		}
+	]
+}
